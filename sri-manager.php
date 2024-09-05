@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WP SRI Manager
+ * Plugin Name: WordPress SRI Manager
  * Plugin URI: https://www.api-studio.fr
  * Description: Gère automatiquement l'intégrité des sous-ressources (SRI) pour les scripts et styles externes dans WordPress.
  * Version: 2.0

@@ -1,4 +1,4 @@
-# SRI Manager
+# WordPress SRI Manager
 
 Ce module gère automatique l'intégrité des sous-ressources sur votre site WordPress
 Informations ici : https://infosec.mozilla.org/guidelines/web_security#subresource-integrity
